@@ -1,0 +1,140 @@
+Output
+ID: CVE-2021-4177
+Description: CVE-2021-4177
+Metadata assigner: security@huntr.dev
+cvss vector string: 
+Published on: 2021-12-28T06:15Z
+Last Modified: 2021-12-28T06:15Z
+Output
+ID: CVE-2020-18442
+Description: CVE-2020-18442
+Metadata assigner: cve@mitre.org
+cvss vector string: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:L
+Published on: 2021-06-18T15:15Z
+Last Modified: 2021-12-28T03:15Z
+Output
+ID: CVE-2017-14107
+Description: CVE-2017-14107
+Metadata assigner: cve@mitre.org
+cvss vector string: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H
+Published on: 2017-09-01T17:29Z
+Last Modified: 2021-12-28T03:15Z
+Output
+ID: CVE-2021-20873
+Description: CVE-2021-20873
+Metadata assigner: vultures@jpcert.or.jp
+cvss vector string: 
+Published on: 2021-12-28T02:15Z
+Last Modified: 2021-12-28T02:15Z
+Output
+ID: CVE-2021-45911
+Description: CVE-2021-45911
+Metadata assigner: cve@mitre.org
+cvss vector string: 
+Published on: 2021-12-28T01:15Z
+Last Modified: 2021-12-28T01:15Z
+Output
+ID: CVE-2021-45910
+Description: CVE-2021-45910
+Metadata assigner: cve@mitre.org
+cvss vector string: 
+Published on: 2021-12-28T01:15Z
+Last Modified: 2021-12-28T01:15Z
+Output
+ID: CVE-2021-45909
+Description: CVE-2021-45909
+Metadata assigner: cve@mitre.org
+cvss vector string: 
+Published on: 2021-12-28T01:15Z
+Last Modified: 2021-12-28T01:15Z
+Output
+ID: CVE-2021-45908
+Description: CVE-2021-45908
+Metadata assigner: cve@mitre.org
+cvss vector string: 
+Published on: 2021-12-28T01:15Z
+Last Modified: 2021-12-28T01:15Z
+Output
+ID: CVE-2021-45907
+Description: CVE-2021-45907
+Metadata assigner: cve@mitre.org
+cvss vector string: 
+Published on: 2021-12-28T01:15Z
+Last Modified: 2021-12-28T01:15Z
+Output
+ID: CVE-2017-18359
+Description: CVE-2017-18359
+Metadata assigner: cve@mitre.org
+cvss vector string: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H
+Published on: 2019-01-25T05:29Z
+Last Modified: 2021-12-28T00:15Z
+Output
+ID: CVE-2021-45906
+Description: CVE-2021-45906
+Metadata assigner: cve@mitre.org
+cvss vector string: 
+Published on: 2021-12-27T23:15Z
+Last Modified: 2021-12-27T23:15Z
+Output
+ID: CVE-2021-45905
+Description: CVE-2021-45905
+Metadata assigner: cve@mitre.org
+cvss vector string: 
+Published on: 2021-12-27T23:15Z
+Last Modified: 2021-12-27T23:15Z
+Output
+ID: CVE-2021-45904
+Description: CVE-2021-45904
+Metadata assigner: cve@mitre.org
+cvss vector string: 
+Published on: 2021-12-27T23:15Z
+Last Modified: 2021-12-27T23:15Z
+Output
+ID: CVE-2021-45041
+Description: CVE-2021-45041
+Metadata assigner: cve@mitre.org
+cvss vector string: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+Published on: 2021-12-19T09:15Z
+Last Modified: 2021-12-27T23:15Z
+Output
+ID: CVE-2020-9359
+Description: CVE-2020-9359
+Metadata assigner: cve@mitre.org
+cvss vector string: CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:L
+Published on: 2020-03-24T14:15Z
+Last Modified: 2021-12-27T23:15Z
+Output
+ID: CVE-2020-21238
+Description: CVE-2020-21238
+Metadata assigner: cve@mitre.org
+cvss vector string: 
+Published on: 2021-12-27T23:15Z
+Last Modified: 2021-12-27T23:15Z
+Output
+ID: CVE-2020-21237
+Description: CVE-2020-21237
+Metadata assigner: cve@mitre.org
+cvss vector string: 
+Published on: 2021-12-27T23:15Z
+Last Modified: 2021-12-27T23:15Z
+Output
+ID: CVE-2020-21236
+Description: CVE-2020-21236
+Metadata assigner: cve@mitre.org
+cvss vector string: 
+Published on: 2021-12-27T23:15Z
+Last Modified: 2021-12-27T23:15Z
+Output
+ID: CVE-2021-45896
+Description: CVE-2021-45896
+Metadata assigner: cve@mitre.org
+cvss vector string: 
+Published on: 2021-12-27T22:15Z
+Last Modified: 2021-12-27T22:15Z
+Output
+ID: CVE-2021-45884
+Description: CVE-2021-45884
+Metadata assigner: cve@mitre.org
+cvss vector string: 
+Published on: 2021-12-27T22:15Z
+Last Modified: 2021-12-27T22:15Z

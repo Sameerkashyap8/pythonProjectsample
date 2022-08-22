@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Page Title</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+  padding: 10px;
+  text-align: Left;
+  background: #e6f5ff;
+  color: #866EE5;
+}
+
+
+.header h1 {
+  font-size: 20px;
+  .header h2 {
+  font-size: 40px;
+ }
+</style>
+</head>
+<body>
+
+<div class="header">
+ <h1>Welcome to</h1>
+<h2><a href="https://cve.mitre.org/">Mitre python code</a></h2>
+</div>
+<button id="myButton" class="float-right submit-button" >click here for the data</button>
+<script type="text/javascript">
+    document.getElementById("myButton").onclick = function () {
+        location.href = "result.txt";
+    };
+</script>
+</body>
+</html>
